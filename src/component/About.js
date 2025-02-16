@@ -80,14 +80,14 @@ export default function About(){
                                     <li><a href="/pricing">Pricing</a></li>
 
                                     <li><a href="/about">About Us</a></li>
-                                    <li><a href="https://dashboard.octatradings.com/signup"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
+                                    <li><a href="https://dashboard.hillmixholdings.com/signup"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
                                 </ul>
                                 { /* end menu area */ }
 
                                 { /* start attribute navigation */ }
                                 <div className="attr-nav sm-no-margin sm-margin-70px-right xs-margin-65px-right">
                                     <span className="sm-margin-20px-right xs-margin-5px-right">
-                                        <a href="https://dashboard.octatradings.com/" className="btn-style2 small theme">
+                                        <a href="https://dashboard.hillmixholdings.com/" className="btn-style2 small theme">
                                             { /* <i class="fa fa-user-circle">Account</i> */ }
                                             <span>LOGIN</span>
                                         </a>

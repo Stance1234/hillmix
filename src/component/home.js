@@ -78,14 +78,14 @@ export default function Home() {
                                     <li><a href="/pricing">Pricing</a></li>
 
                                     <li><a href="/about">About Us</a></li>
-                                    <li><a href="https://dashboard.octatradings.com/signup"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
+                                    <li><a href="https://dashboard.hillmixholdings.com/signup"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
                                 </ul>
                                 {/* end menu area */}
 
                                 {/* start attribute navigation */}
                                 <div className="attr-nav sm-no-margin sm-margin-70px-right xs-margin-65px-right">
                                     <span className="sm-margin-20px-right xs-margin-5px-right">
-                                        <a href="https://dashboard.octatradings.com/" className="btn-style2 small theme">
+                                        <a href="https://dashboard.hillmixholdings.com/" className="btn-style2 small theme">
                                             {/* <i className="fa fa-user-circle">Account</i> */}
                                             <span>LOGIN</span>
                                         </a>
@@ -198,7 +198,7 @@ export default function Home() {
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{zIndex: 8, minWidth: '640px', maxWidth: '640px', whiteSpace: 'normal', fontSize: '40px', lineHeight: '50px', fontWeight: 300, color: 'rgba(255, 255, 255, 1.00)', display: 'block'}}>Access multiple assets from a single investment</div>
 
                                     {/* LAYER NR. 14 */}
-                                    <a className="tp-caption rev-btn  tp-resizeme butn theme white-hover" href="https://dashboard.octatradings.com/" target="_blank" id="slide-412-layer-13" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','540','590','400']"
+                                    <a className="tp-caption rev-btn  tp-resizeme butn theme white-hover" href="https://dashboard.hillmixholdings.com/" target="_blank" id="slide-412-layer-13" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','540','590','400']"
                                         data-width="none" data-height="none" data-whitespace="['normal','nowrap','nowrap','nowrap']" data-type="button" data-actions='' data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+690","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;fb:0;"}]'
                                         data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','inherit','inherit']" style={{zIndex: 9, display: 'inline-block', whiteSpace: 'nowrap', outline: 'none', letterSpacing: '1px', cursor: 'pointer'}}><span>INVEST NOW</span></a>
                                 </div>
@@ -242,7 +242,7 @@ export default function Home() {
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style={{zIndex: 8, minWidth: '640px', maxWidth: '640px', whiteSpace: 'normal', fontSize: '40px', lineHeight: '50px', fontWeight: 300, color: 'rgba(255, 255, 255, 1.00)', display: 'block'}}>Crypto protocols and stock trading represent the future of investing, paving the way for innovative financial solutions and new opportunities in both the digital and traditional markets.</div>
 
                                     {/* LAYER NR. 23 */}
-                                    <a className="tp-caption rev-btn  tp-resizeme butn theme white-hover" href="https://dashboard.octatradings.com/" id="slide-413-layer-13" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','540','590','400']"
+                                    <a className="tp-caption rev-btn  tp-resizeme butn theme white-hover" href="https://dashboard.hillmixholdings.com/" id="slide-413-layer-13" data-x="['left','left','center','center']" data-hoffset="['0','50','0','0']" data-y="['top','top','top','top']" data-voffset="['0','540','590','400']"
                                         data-width="none" data-height="none" data-whitespace="['normal','nowrap','nowrap','nowrap']" data-type="button" data-actions='' data-basealign="slide" data-responsive_offset="on" data-frames='[{"delay":"+690","speed":2000,"frame":"0","from":"y:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;fb:0;"}]'
                                         data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]" data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]" data-textAlign="['inherit','inherit','inherit','inherit']" style={{zIndex: 9, display: 'inline-block', whiteSpace: 'nowrap', outline: 'none', letterSpacing: '1px', cursor: 'pointer'}}><span>INVEST NOW</span></a>
                                 </div>
@@ -325,7 +325,7 @@ export default function Home() {
                 <div className="row">
                     <div className="col-md-12 text-center">
                         <h6 className="text-white margin-10px-bottom line-height-40 font-weight-600">New to investing? Let our advisors guide you on how to invest!</h6>
-                        <a href="https://dashboard.octatradings.com/" className="butn white" target="_blank"><span>Get Started</span></a>
+                        <a href="https://dashboard.hillmixholdings.com/" className="butn white" target="_blank"><span>Get Started</span></a>
                     </div>
                 </div>
                 {/*Row End*/}
@@ -430,7 +430,7 @@ export default function Home() {
                     <h1 className="text-theme-color font-size50 md-font-size42 sm-font-size38 font-weight-800">Own the Blockchain</h1>
                     <div className="text-theme-color line-height-normal font-weight-400 font-size36 md-font-size32 sm-font-size28 margin-20px-bottom no-letter-spacing width-60 xs-width-70">Don't just invest. Own the Asset.</div>
                     <p className="text-theme-color width-60 xs-width-100 font-size16 xs-display-none line-height-30 xs-font-size14 xs-line-height-26">Our investment strategy allows investors to not only profit through investments into asstes, but to also own the assets, such that an increase in value results in cashflow.</p>
-                    <div className="margin-30px-top sm-margin-25px-top"><a href="https://dashboard.octatradings.com/signup" className="butn theme"><span>Get Started</span></a></div>
+                    <div className="margin-30px-top sm-margin-25px-top"><a href="https://dashboard.hillmixholdings.com/signup" className="butn theme"><span>Get Started</span></a></div>
                 </div>
             </div>
 
@@ -748,7 +748,7 @@ export default function Home() {
                 <span>Customer Culture</span>
                 <h3>Our customer culture resonates with our success!</h3>
                 <p>As a company, we always put the client first, because we know we built this company for them. Our internal corporate culture enables us serve products that are created for humans.</p>
-                <a href="https://dashboard.octatradings.com/signup" className="butn theme"><span>Start Investing</span></a>
+                <a href="https://dashboard.hillmixholdings.com/signup" className="butn theme"><span>Start Investing</span></a>
 
             </div>
 
@@ -895,7 +895,7 @@ export default function Home() {
                     <p>We are inviting you to come onboard the Hillmix Holdings investment platform and begin enjoying outstanding returns on your investment.</p>
                     <div className="display-inline-block vertical-align-middle font-weight-700 font-size18 sm-font-size16 margin-25px-right">Register</div>
                     <div className="display-inline-block vertical-align-middle about-video padding-20px-tb">
-                        <a className="video video_btn video_btn-style2 small" href="https://dashboard.octatradings.com/signup"><i className="fas fa-key"></i></a>
+                        <a className="video video_btn video_btn-style2 small" href="https://dashboard.hillmixholdings.com/signup"><i className="fas fa-key"></i></a>
                     </div>
                 </div>
 
@@ -940,7 +940,7 @@ export default function Home() {
                                 </ul>
                             </div>
                             <div className="order">
-                                <a href="https://dashboard.octatradings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                             </div>
                         </div>
                     </div>
@@ -964,7 +964,7 @@ export default function Home() {
                                 </ul>
                             </div>
                             <div className="order">
-                                <a href="https://dashboard.octatradings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                             </div>
                         </div>
                     </div>
@@ -988,7 +988,7 @@ export default function Home() {
                                 </ul>
                             </div>
                             <div className="order">
-                                <a href="https://dashboard.octatradings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                             </div>
                         </div>
                     </div>
@@ -1012,7 +1012,7 @@ export default function Home() {
                                 </ul>
                             </div>
                             <div className="order">
-                                <a href="https://dashboard.octatradings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                             </div>
                         </div>
                     </div>
@@ -1036,7 +1036,7 @@ export default function Home() {
                                 </ul>
                             </div>
                             <div className="order">
-                                <a href="https://dashboard.octatradings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                             </div>
                         </div>
                     </div>
