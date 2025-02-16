@@ -26,7 +26,7 @@ export default function About(){
                     <div className="col-md-9 col-xs-12">
                         <div className="top-bar-info">
                             <ul>
-                                <li><i className="fas fa-envelope" />support@octatradings.com</li>
+                                <li><i className="fas fa-envelope" />support@hillmixholdings.com</li>
                             </ul>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ export default function About(){
                                 <div className="navbar-header navbar-header-custom">
                                     { /* start logo */ }
                                     <a href="index.html" className="navbar-brand logo2">
-                            <img src="img/logo.png" alt="OctaInvest Logo" style={{ height: '40px' }} />
+                            <img src="img/logo.png" alt="Hillmixholdings Logo" style={{ height: '40px' }} />
                         </a>
                         { /* end logo */ }
                                 </div>
@@ -145,12 +145,12 @@ export default function About(){
             <div className="col-lg-6 col-md-12">
                 <div className="padding-30px-right">
 
-                    <h4 className="font-weight-600 text-theme-color">About Octa Investment</h4>
+                    <h4 className="font-weight-600 text-theme-color">About Hillmix Holdings</h4>
 
-                    <p className="margin-10px-bottom"><span className="font-weight-600">Octa Investment is a British venture capital firm managing a crypto hedge fund that specializes in blockchain technology, early token sales, and stock investments. Founded to reinvent investment strategies in the token economy, Octa Investment exclusively invests in early token sales tied to real businesses, avoiding Initial Coin Offerings (ICOs) that lack a product or business model. Stocks and stock trading are also part of its portfolio, providing a balanced, diversified approach.</span></p>
-                    <p className="margin-30px-bottom sm-margin-25px-bottom xs-margin-20px-bottom">The firm focuses on tokens that incentivize essential protocol actions and drive innovation in smart contract functionality. Its earliest public investments included Tezos, MakerDAO, and Ethereum. Today, Octa Investment continues to support promising blockchain ecosystems such as IPFS, RChain, Polkadot, Dfinity, and Cosmos, which it believes are poised to power the future of Web 3. Notably, the firm does not invest in general crypto applications.</p>
-                    <p>Octa Investment’s approach is strategic and selective, aiming to back projects with strong, sustainable potential. By targeting foundational technologies, the firm aligns itself with projects capable of reshaping the digital economy. Its careful selection criteria and focus on blockchain infrastructure help distinguish its portfolio from other venture capital firms.</p>
-                    <p className="no-margin-bottom">While Octa Investment did not conduct an Initial Coin Offering, it has secured over $400 million in funding from prestigious Silicon Valley venture firms, including Andreessen Horowitz, Abstract Ventures, Founders Fund, Sequoia Capital, and Union Square Ventures. This support underscores the confidence in Octa’s vision for a robust and sustainable investment model for blockchain and stocks alike.</p>
+                    <p className="margin-10px-bottom"><span className="font-weight-600">Hillmix Holdings is a British venture capital firm managing a crypto hedge fund that specializes in blockchain technology, early token sales, and stock investments. Founded to reinvent investment strategies in the token economy, Hillmix Holdings exclusively invests in early token sales tied to real businesses, avoiding Initial Coin Offerings (ICOs) that lack a product or business model. Stocks and stock trading are also part of its portfolio, providing a balanced, diversified approach.</span></p>
+                    <p className="margin-30px-bottom sm-margin-25px-bottom xs-margin-20px-bottom">The firm focuses on tokens that incentivize essential protocol actions and drive innovation in smart contract functionality. Its earliest public investments included Tezos, MakerDAO, and Ethereum. Today, Hillmix Holdings continues to support promising blockchain ecosystems such as IPFS, RChain, Polkadot, Dfinity, and Cosmos, which it believes are poised to power the future of Web 3. Notably, the firm does not invest in general crypto applications.</p>
+                    <p>Hillmix Holdings’s approach is strategic and selective, aiming to back projects with strong, sustainable potential. By targeting foundational technologies, the firm aligns itself with projects capable of reshaping the digital economy. Its careful selection criteria and focus on blockchain infrastructure help distinguish its portfolio from other venture capital firms.</p>
+                    <p className="no-margin-bottom">While Hillmix Holdings did not conduct an Initial Coin Offering, it has secured over $400 million in funding from prestigious Silicon Valley venture firms, including Andreessen Horowitz, Abstract Ventures, Founders Fund, Sequoia Capital, and Union Square Ventures. This support underscores the confidence in Octa’s vision for a robust and sustainable investment model for blockchain and stocks alike.</p>
                 </div>
             </div>
             <div className="col-lg-6 col-md-12 sm-display xm-display">
@@ -294,7 +294,7 @@ export default function About(){
 
                         <div className="display-table height-100">
                             <div className="display-table-cell vertical-align-middle">
-                                <h3 className="font-size34 md-font-size32 sm-font-size28 xs-font-size24 text-uppercase font-weight-800 no-margin xs-margin-20px-bottom">Why You Should<br /> choose <br /><span className="text-theme-color">Octa Investment</span></h3>
+                                <h3 className="font-size34 md-font-size32 sm-font-size28 xs-font-size24 text-uppercase font-weight-800 no-margin xs-margin-20px-bottom">Why You Should<br /> choose <br /><span className="text-theme-color">Hillmix Holdings</span></h3>
                             </div>
                         </div>
 
@@ -320,7 +320,7 @@ export default function About(){
                         <span className="display-table-cell sm-display-inline-block vertical-align-top"><i className="icon-briefcase font-size30 md-font-size28 sm-font-size26 text-theme-color xs-margin-5px-top" /></span>
                         <div className="width-90 sm-width-80 margin-20px-left xs-margin-15px-left sm-display-inline-block">
                             <span className="display-block alt-font font-weight-700 text-uppercase letter-spacing-1 margin-5px-bottom">Multiple Products</span>
-                            <p className="no-margin">Octa Investment provides access to over 74 investment classes. We offer both individual and corporate services with vast growth opportunities.</p>
+                            <p className="no-margin">Hillmix Holdings provides access to over 74 investment classes. We offer both individual and corporate services with vast growth opportunities.</p>
                             <p>
                         </p></div>
                     </div>
@@ -331,7 +331,7 @@ export default function About(){
                         <span className="display-table-cell sm-display-inline-block vertical-align-top"><i className="icon-browser font-size30 md-font-size28 sm-font-size26 text-theme-color xs-margin-5px-top" /></span>
                         <div className="width-90 sm-width-80 margin-20px-left xs-margin-15px-left sm-display-inline-block">
                             <span className="display-block alt-font font-weight-700 text-uppercase letter-spacing-1 margin-5px-bottom">Advanced Technology</span>
-                            <p className="no-margin">Dynamic trading tools, extensive IT infrastructure make Octa Investment a powerful industry leader. We are self-made, which means flexible.</p>
+                            <p className="no-margin">Dynamic trading tools, extensive IT infrastructure make Hillmix Holdings a powerful industry leader. We are self-made, which means flexible.</p>
                         </div>
                     </div>
                     { /* end feature box item */ }
@@ -341,7 +341,7 @@ export default function About(){
                         <span className="display-table-cell sm-display-inline-block vertical-align-top"><i className="icon-profile-male font-size30 md-font-size28 sm-font-size26 text-theme-color xs-margin-5px-top" /></span>
                         <div className="width-90 sm-width-80 margin-20px-left xs-margin-15px-left sm-display-inline-block">
                             <span className="display-block alt-font font-weight-700 text-uppercase letter-spacing-1 margin-5px-bottom">Expert Teams</span>
-                            <p className="no-margin">Octa Investment team is made up of more than 50 IT and finance specialists, each contributing their own expertise to provide the highest quality of service available.</p>
+                            <p className="no-margin">Hillmix Holdings team is made up of more than 50 IT and finance specialists, each contributing their own expertise to provide the highest quality of service available.</p>
                         </div>
                     </div>
                     { /* end feature box item */ }
@@ -359,7 +359,7 @@ export default function About(){
                         <span className="display-table-cell sm-display-inline-block vertical-align-top"><i className="icon-presentation font-size30 md-font-size28 sm-font-size26 text-theme-color xs-margin-5px-top" /></span>
                         <div className="width-90 sm-width-80 margin-20px-left xs-margin-15px-left sm-display-inline-block">
                             <span className="display-block alt-font font-weight-700 text-uppercase letter-spacing-1 margin-5px-bottom">Investment Knowledge</span>
-                            <p className="no-margin">Octa Investment provides investors with knowledge about investments and about how they can take advantage of the financial industry freely, as part of our values.</p>
+                            <p className="no-margin">Hillmix Holdings provides investors with knowledge about investments and about how they can take advantage of the financial industry freely, as part of our values.</p>
                         </div>
                     </div>
                     { /* end feature box item */ }
@@ -481,7 +481,7 @@ export default function About(){
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <div className="contact-box"><i className="far fa-envelope" />
-                            <h4>Mail Us</h4><span>support@octatradings.com</span></div>
+                            <h4>Mail Us</h4><span>support@hillmixholdings.com</span></div>
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <div className="contact-box"><i className="far fa-comments" />
@@ -521,7 +521,7 @@ export default function About(){
 
                             <li>
                                 <span className="d-inline-block vertical-align-top font-size18"><i className="far fa-envelope text-theme-color" /></span>
-                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@octatradings.com</span>
+                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@hillmixholdings.com</span>
                             </li>
 
                         </ul>
@@ -536,7 +536,7 @@ export default function About(){
                 <div className="col-lg-4 col-md-6 sm-margin-50px-bottom xs-margin-30px-bottom">
                     <div className="padding-30px-right sm-no-padding-right border-right xs-border-bottom sm-no-border-right border-color-light-white xs-padding-30px-bottom height-100">
                         <h3 className="footer-title-style7 text-white">Newsletter</h3>
-                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Octa Investment</p>
+                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Hillmix Holdings</p>
                         <form className=" newsletter-form w-sm-90 mx-auto mx-lg-0" action="#">
 
                             <div className="quform-elements">
@@ -547,7 +547,7 @@ export default function About(){
                                     <div className="col-md-12">
                                         <div className="quform-element">
                                             <div className="quform-input">
-                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Octa Investment" />
+                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Hillmix Holdings" />
                                             </div>
                                         </div>
                                     </div>
@@ -573,7 +573,7 @@ export default function About(){
                 <div className="col-lg-4 col-md-6">
                     <div className="height-100">
                         <h3 className="footer-title-style7 text-white">About Us</h3>
-                        <p className="margin-20px-bottom">Octa Investment is a company involved in a blockchain assets hedge fund.</p>
+                        <p className="margin-20px-bottom">Hillmix Holdings is a company involved in a blockchain assets hedge fund.</p>
                         <p className="margin-20px-bottom">The company invests in cryptocurrency protocols, companies, stocks, and stock trading.</p>
                         <a href="about.html" className="butn theme white-hover small"><span>Read More</span></a>
                     </div>
@@ -598,7 +598,7 @@ export default function About(){
                 <p>©
                     <script>{`
                         document.write(new Date().getFullYear())
-                    `}</script> Octa Investment</p>
+                    `}</script> Hillmix Holdings</p>
             </div>
         </div>
     </footer>

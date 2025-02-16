@@ -24,7 +24,7 @@ export default function Home() {
                     <div className="col-md-9 col-xs-12">
                         <div className="top-bar-info">
                             <ul>
-                                <li><i className="fas fa-envelope"></i>support@octatradings.com</li>
+                                <li><i className="fas fa-envelope"></i>support@hillmixholdings.com</li>
                             </ul>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ export default function Home() {
                                 <div className="navbar-header navbar-header-custom">
                                     {/* start logo */}
                                     <a href="index.html" className="navbar-brand logo2">
-                            <img src="img/logo.png" alt="OctaInvest Logo" style={{ height: '40px' }} />
+                            <img src="img/logo.png" alt="Hillmixholdings Logo" style={{ height: '40px' }} />
                         </a>
                                     {/* end logo */}
                                 </div>
@@ -351,7 +351,7 @@ export default function Home() {
 
                     <div className="col-lg-7 col-md-6">
                         <div className="height-100 border-left border-color-light-black padding-30px-left xs-no-padding-left">
-                            <p className="no-margin width-95">Blockchain assets are the wealth of today and the future. Octa Investment is giving investors the opportunity to not only profit from blockchain assets, but also, to own them. Owning a blockchain asset today means owning the future.</p>
+                            <p className="no-margin width-95">Blockchain assets are the wealth of today and the future. Hillmix Holdings is giving investors the opportunity to not only profit from blockchain assets, but also, to own them. Owning a blockchain asset today means owning the future.</p>
                         </div>
                     </div>
 
@@ -378,7 +378,7 @@ export default function Home() {
                         <div className="padding-70px-left md-padding-50px-left sm-no-padding">
                             <div className="display-table-cell vertical-align-middle width-100">
                                 <h4 className="font-weight-600">We are committed to building sustainable wealth for investors.</h4>
-                                <p>That is why our crypto hedge funds invest in Blockchain technology and early token sales. Our inclusive objective is to reinvent investment strategies for token sales. An investment with Octa Investment means:</p>
+                                <p>That is why our crypto hedge funds invest in Blockchain technology and early token sales. Our inclusive objective is to reinvent investment strategies for token sales. An investment with Hillmix Holdings means:</p>
 
                                 <div className="width-65 xs-width-85">
                                     <ul className="list-style-14 margin-35px-bottom xs-margin-25px-bottom">
@@ -471,7 +471,7 @@ export default function Home() {
         <section className="lg bg-transparent bg-img cover-background" data-overlay-dark="0" data-background="./img//bg/shape-01.png">
             <div className="container">
                 <div className="section-heading title-style8">
-                    <h3>Why Choose Octa Investment?</h3>
+                    <h3>Why Choose Hillmix Holdings?</h3>
                     <p className="width-55 sm-width-75 xs-width-95 center-col">There are countless reasons why we stand out amongst other investment firms, and our direct competition. Here are some of those reasons:</p>
                 </div>
                 <div className="row">
@@ -501,7 +501,7 @@ export default function Home() {
                                 </div>
                                 <div className="col-10">
                                     <h4 className="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Unique Asset Classes</h4>
-                                    <p className="no-margin-bottom">Octa Investment looks for tokens that incentivize the core actions of a protocol and/or excel in developing novel mechanisms for smart contracts.</p>
+                                    <p className="no-margin-bottom">Hillmix Holdings looks for tokens that incentivize the core actions of a protocol and/or excel in developing novel mechanisms for smart contracts.</p>
                                 </div>
                             </div>
                         </div>
@@ -533,7 +533,7 @@ export default function Home() {
                                 </div>
                                 <div className="col-10">
                                     <h4 className="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Venture Backed</h4>
-                                    <p className="no-margin-bottom">Over $400 million in assets from several traditional VC firms from Silicon Valley have been injected into the Octa Investment project.</p>
+                                    <p className="no-margin-bottom">Over $400 million in assets from several traditional VC firms from Silicon Valley have been injected into the Hillmix Holdings project.</p>
                                 </div>
                             </div>
                         </div>
@@ -652,7 +652,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-12 col-lg-8">
                             <div className="data">
-                                <p>Octa Investment is an awesome investment platform! It's easy to use, plus I enjoy the technolgy and quick payments. So happy I found this!</p>
+                                <p>Hillmix Holdings is an awesome investment platform! It's easy to use, plus I enjoy the technolgy and quick payments. So happy I found this!</p>
                                 <h5>stepharuse</h5>
                                 <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                             </div>
@@ -664,7 +664,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-12 col-lg-8">
                             <div className="data">
-                                <p>Octa Investment is the only investment company I know that is independent of the big banks, yet with the same protection assurance. That's perfect to me!</p>
+                                <p>Hillmix Holdings is the only investment company I know that is independent of the big banks, yet with the same protection assurance. That's perfect to me!</p>
                                 <h5>d-keithly</h5>
                                 <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                             </div>
@@ -688,7 +688,7 @@ export default function Home() {
                     //     </div>
                     //     <div className="col-md-12 col-lg-8">
                     //         <div className="data">
-                    //             <p>Everything is straightforward, and dealing with everyone at Octa Investment gives me confidence that I made a perfect choice. Compared with my previous investment manager, it's night-and-day.</p>
+                    //             <p>Everything is straightforward, and dealing with everyone at Hillmix Holdings gives me confidence that I made a perfect choice. Compared with my previous investment manager, it's night-and-day.</p>
                     //             <h5>pro-investor777</h5>
                     //             <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                     //         </div>
@@ -700,7 +700,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-12 col-lg-8">
                             <div className="data">
-                                <p>Octa Investment overall appears to be a well run organization and offer the latest technologies to make investing easy!</p>
+                                <p>Hillmix Holdings overall appears to be a well run organization and offer the latest technologies to make investing easy!</p>
                                 <h5>feitsing_r</h5>
                                 <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                             </div>
@@ -712,7 +712,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-12 col-lg-8">
                             <div className="data">
-                                <p>The professionalism and transparency in Octa Investment is worth acknowledging. It is companies like this we want to always trust with our wealth journey. I also love the prompt service from your customer care unit..</p>
+                                <p>The professionalism and transparency in Hillmix Holdings is worth acknowledging. It is companies like this we want to always trust with our wealth journey. I also love the prompt service from your customer care unit..</p>
                                 <h5>ahmadini-omar</h5>
                                 <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                             </div>
@@ -724,7 +724,7 @@ export default function Home() {
                         </div>
                         <div className="col-md-12 col-lg-8">
                             <div className="data">
-                                <p>My first ever investment experience is with Octa Investment, and I really didn't know that investing could be this interesting and exciting. Thank you for helping my dream take shape.</p>
+                                <p>My first ever investment experience is with Hillmix Holdings, and I really didn't know that investing could be this interesting and exciting. Thank you for helping my dream take shape.</p>
                                 <h5>queen-priya</h5>
                                 <i className="fas fa-quote-right font-size32 md-font-size30 sm-font-size28 xs-font-size26 opacity1"></i>
                             </div>
@@ -892,7 +892,7 @@ export default function Home() {
                 <div className="service-design padding-45px-left sm-no-padding-left">
                     <span>What Next?</span>
                     <h3>Begin your wealth journey with us now!</h3>
-                    <p>We are inviting you to come onboard the Octa Investment investment platform and begin enjoying outstanding returns on your investment.</p>
+                    <p>We are inviting you to come onboard the Hillmix Holdings investment platform and begin enjoying outstanding returns on your investment.</p>
                     <div className="display-inline-block vertical-align-middle font-weight-700 font-size18 sm-font-size16 margin-25px-right">Register</div>
                     <div className="display-inline-block vertical-align-middle about-video padding-20px-tb">
                         <a className="video video_btn video_btn-style2 small" href="https://dashboard.octatradings.com/signup"><i className="fas fa-key"></i></a>
@@ -1174,7 +1174,7 @@ export default function Home() {
 
                             <li>
                                 <span className="d-inline-block vertical-align-top font-size18"><i className="far fa-envelope text-theme-color"></i></span>
-                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@octatradings.com</span>
+                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@hillmixholdings.com</span>
                             </li>
 
                         </ul>
@@ -1189,7 +1189,7 @@ export default function Home() {
                 <div className="col-lg-4 col-md-6 sm-margin-50px-bottom xs-margin-30px-bottom">
                     <div className="padding-30px-right sm-no-padding-right border-right xs-border-bottom sm-no-border-right border-color-light-white xs-padding-30px-bottom height-100">
                         <h3 className="footer-title-style7 text-white">Newsletter</h3>
-                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Octa Investment</p>
+                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Hillmix Holdings</p>
                         <form className=" newsletter-form w-sm-90 mx-auto mx-lg-0" action="#" >
 
                             <div className="quform-elements">
@@ -1200,7 +1200,7 @@ export default function Home() {
                                     <div className="col-md-12">
                                         <div className="quform-element">
                                             <div className="quform-input">
-                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Octa Investment" />
+                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Hillmix Holdings" />
                                             </div>
                                         </div>
                                     </div>
@@ -1226,7 +1226,7 @@ export default function Home() {
                 <div className="col-lg-4 col-md-6">
                     <div className="height-100">
                         <h3 className="footer-title-style7 text-white">About Us</h3>
-                        <p className="margin-20px-bottom">Octa Investment is a company involved in a blockchain assets hedge fund.</p>
+                        <p className="margin-20px-bottom">Hillmix Holdings is a company involved in a blockchain assets hedge fund.</p>
                         <p className="margin-20px-bottom">The company invests in cryptocurrency protocols, companies, stocks, and stock trading.</p>
                         <a href="about.html" className="butn theme white-hover small"><span>Read More</span></a>
                     </div>
@@ -1244,7 +1244,7 @@ export default function Home() {
                 <p>&copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script> Octa Investment</p>
+                    </script> Hillmix Holdings</p>
             </div>
         </div>
     </footer>

@@ -27,7 +27,7 @@ export default function (){
                     <div className="col-md-9 col-xs-12">
                         <div className="top-bar-info">
                             <ul>
-                                <li><i className="fas fa-envelope" />support@octaInvestment.com</li>
+                                <li><i className="fas fa-envelope" />support@Hillmixholdings.com</li>
                             </ul>
                         </div>
                     </div>
@@ -67,7 +67,7 @@ export default function (){
                                 <div className="navbar-header navbar-header-custom">
                                     { /* start logo */ }
                                     <a href="index.html" className="navbar-brand logo2">
-                            <img src="img/logo.png" alt="OctaInvest Logo" style={{ height: '40px' }} />
+                            <img src="img/logo.png" alt="Hillmixholdings Logo" style={{ height: '40px' }} />
                         </a>
                         { /* end logo */ }
                                 </div>
@@ -81,14 +81,14 @@ export default function (){
                                     <li><a href="/pricing">Pricing</a></li>
 
                                     <li><a href="/about">About Us</a></li>
-                                    <li><a href="https://dashboard-octainvest.vercel.app/auth/sign-up"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
+                                    <li><a href="https://Hillmixholdings.com/signup"><span className="btn-style2 small theme">JOIN NOW</span></a></li>
                                 </ul>
                                 { /* end menu area */ }
 
                                 { /* start attribute navigation */ }
                                 <div className="attr-nav sm-no-margin sm-margin-70px-right xs-margin-65px-right">
                                     <span className="sm-margin-20px-right xs-margin-5px-right">
-                                        <a href="https://dashboard-octainvest.vercel.app/" className="btn-style2 small theme">
+                                        <a href="https://Hillmixholdings.com/" className="btn-style2 small theme">
                                             { /* <i class="fa fa-user-circle">Account</i> */ }
                                             <span>LOGIN</span>
                                         </a>
@@ -156,7 +156,7 @@ export default function (){
                             </ul>
                         </div>
                         <div className="order">
-                            <a href="https://dashboard-octainvest.vercel.app/auth/sign-up" className="butn small"><span>Choose Plan</span></a>
+                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -180,7 +180,7 @@ export default function (){
                             </ul>
                         </div>
                         <div className="order">
-                            <a href="https://dashboard-octainvest.vercel.app/auth/sign-up" className="butn small"><span>Choose Plan</span></a>
+                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -204,7 +204,7 @@ export default function (){
                             </ul>
                         </div>
                         <div className="order">
-                            <a href="https://dashboard-octainvest.vercel.app/auth/sign-up" className="butn small"><span>Choose Plan</span></a>
+                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@ export default function (){
                             </ul>
                         </div>
                         <div className="order">
-                            <a href="https://dashboard-octainvest.vercel.app/auth/sign-up" className="butn small"><span>Choose Plan</span></a>
+                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -252,7 +252,7 @@ export default function (){
                             </ul>
                         </div>
                         <div className="order">
-                            <a href="https://dashboard-octainvest.vercel.app/auth/sign-up" className="butn small"><span>Choose Plan</span></a>
+                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -276,10 +276,10 @@ export default function (){
                 <div className="service-design padding-45px-left sm-no-padding-left">
                     <span>What Next?</span>
                     <h3>Begin your wealth journey with us now!</h3>
-                    <p>We are inviting you to come onboard the Octa Investment investment platform and begin enjoying outstanding returns on your investment.</p>
+                    <p>We are inviting you to come onboard the Hillmix Holdings investment platform and begin enjoying outstanding returns on your investment.</p>
                     <div className="display-inline-block vertical-align-middle font-weight-700 font-size18 sm-font-size16 margin-25px-right">Register</div>
                     <div className="display-inline-block vertical-align-middle about-video padding-20px-tb">
-                        <a className="video video_btn video_btn-style2 small" href="https://dashboard-octainvest.vercel.app/signup"><i className="fas fa-play" /></a>
+                        <a className="video video_btn video_btn-style2 small" href="https://Hillmixholdings.com/signup"><i className="fas fa-play" /></a>
                     </div>
                 </div>
 
@@ -303,7 +303,7 @@ export default function (){
                 <div className="col-lg-5 sm-margin-30px-bottom">
                     <div className="item text-center active">
                         <div className="type">
-                            <h4>Octa Investment LP</h4>
+                            <h4>Hillmix Holdings LP</h4>
                         </div>
                         <div className="value">
                             <h3>Custom Pricing</h3>
@@ -317,9 +317,9 @@ export default function (){
                                 <li>Investors Only</li>
                             </ul>
                         </div>
-                        <p>Our Octa Investment LP fund is one of our funds which gives investors direct profit opportunities.</p>
+                        <p>Our Hillmix Holdings LP fund is one of our funds which gives investors direct profit opportunities.</p>
                         <div className="order">
-                            <a href="mailto:support@octaInvestment.com" className="butn medium"><span>GET STARTED</span></a>
+                            <a href="mailto:support@Hillmixholdings.com" className="butn medium"><span>GET STARTED</span></a>
                         </div>
                     </div>
                 </div>
@@ -329,7 +329,7 @@ export default function (){
                 <div className="col-lg-5 sm-margin-30px-bottom">
                     <div className="item text-center active">
                         <div className="type">
-                            <h4>Octa Investment 2.0</h4>
+                            <h4>Hillmix Holdings 2.0</h4>
                         </div>
                         <div className="value">
                             <h3>Custom Pricing</h3>
@@ -343,9 +343,9 @@ export default function (){
                                 <li>Investors Only</li>
                             </ul>
                         </div>
-                        <p>Our Octa Investment 2.0 is our longterm ecosystem blockchain trust in protocols with our Web 3 partners on 3x scale.</p>
+                        <p>Our Hillmix Holdings 2.0 is our longterm ecosystem blockchain trust in protocols with our Web 3 partners on 3x scale.</p>
                         <div className="order">
-                            <a href="mailto:support@octaInvestment.com" className="butn theme medium"><span>GET STARTED</span></a>
+                            <a href="mailto:support@Hillmixholdings.com" className="butn theme medium"><span>GET STARTED</span></a>
                         </div>
                     </div>
                 </div>
@@ -356,13 +356,13 @@ export default function (){
     { /* end special section */ }
 
         { /* start advice section */ }
-        <section className="parallax" data-overlay-dark="7" data-background="https://octaInvestment.com/assets/miner/img/bg/talk-to-advisor.jpg" id="advice">
+        <section className="parallax" data-overlay-dark="7" data-background="https://Hillmixholdings.com/assets/miner/img/bg/talk-to-advisor.jpg" id="advice">
             <div className="container text-center">
                 <div className="section-heading title-style5 half white">
                     <h4>Didn't find the right plan for your financial goals?</h4>
                     <p>Talk to one of our investment advisors to create a custom plan for you right away.</p>
                 </div>
-                <a href="https://dashboard-octainvest.vercel.app/" className="butn theme white-hover" target="_blank"><span>Talk To An Advisor</span></a>
+                <a href="https://Hillmixholdings.com/" className="butn theme white-hover" target="_blank"><span>Talk To An Advisor</span></a>
             </div>
         </section>
         { /* end advice section */ }
@@ -385,7 +385,7 @@ export default function (){
 
                             <li>
                                 <span className="d-inline-block vertical-align-top font-size18"><i className="far fa-envelope text-theme-color" /></span>
-                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@octaInvestment.com</span>
+                                <span className="d-inline-block width-85 vertical-align-top padding-10px-left">support@Hillmixholdings.com</span>
                             </li>
 
                         </ul>
@@ -400,7 +400,7 @@ export default function (){
                 <div className="col-lg-4 col-md-6 sm-margin-50px-bottom xs-margin-30px-bottom">
                     <div className="padding-30px-right sm-no-padding-right border-right xs-border-bottom sm-no-border-right border-color-light-white xs-padding-30px-bottom height-100">
                         <h3 className="footer-title-style7 text-white">Newsletter</h3>
-                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Octa Investment</p>
+                        <p className="margin-20px-bottom">You can subscribe to our free newsletter to stay updated with information anf offers from Hillmix Holdings</p>
                         <form className=" newsletter-form w-sm-90 mx-auto mx-lg-0" action="#">
 
                             <div className="quform-elements">
@@ -411,7 +411,7 @@ export default function (){
                                     <div className="col-md-12">
                                         <div className="quform-element">
                                             <div className="quform-input">
-                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Octa Investment" />
+                                                <input className="form-control" id="email_address" type="text" name="email_address" placeholder="Subscribe with Hillmix Holdings" />
                                             </div>
                                         </div>
                                     </div>
@@ -437,7 +437,7 @@ export default function (){
                 <div className="col-lg-4 col-md-6">
                     <div className="height-100">
                         <h3 className="footer-title-style7 text-white">About Us</h3>
-                        <p className="margin-20px-bottom">Octa Investment is a company involved in a blockchain assets hedge fund.</p>
+                        <p className="margin-20px-bottom">Hillmix Holdings is a company involved in a blockchain assets hedge fund.</p>
                         <p className="margin-20px-bottom">The company invests in cryptocurrency protocols, companies, stocks, and stock trading.</p>
                         <a href="about.html" className="butn theme white-hover small"><span>Read More</span></a>
                     </div>
@@ -462,7 +462,7 @@ export default function (){
                 <p>©
                     <script>{`
                         document.write(new Date().getFullYear())
-                    `}</script> Octa Investment</p>
+                    `}</script> Hillmix Holdings</p>
             </div>
         </div>
     </footer>
