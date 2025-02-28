@@ -686,7 +686,7 @@ export default function About(){
 { /* Smartsupp Live Chat script */ }
 {/* <script type="text/javascript">{`
 var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'bca68dbf7818610c235f32d47c5334372332c40e';
+_smartsupp.key = '5e4385baf8c0e2eff416fddf66f6bb1afd621bb5';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');
