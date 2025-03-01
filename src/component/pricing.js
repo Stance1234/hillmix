@@ -1,4 +1,4 @@
-
+import SmartsuppChat from "./smartsup"
 export default function (){
 
     return(
@@ -555,23 +555,9 @@ export default function (){
 
 { /* all js include end */ }
 
-{ /*<script src="//code.tidio.co/wr50arirncaluremifgu47qslmkzatzk.js" async></script>*/ }
-
-{ /* Smartsupp Live Chat script */ }
-<script type="text/javascript">{`
-var _smartsupp = _smartsupp || {};
-_smartsupp.key = '5e4385baf8c0e2eff416fddf66f6bb1afd621bb5';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='../www.smartsuppchat.com/loaderd41d.js?';s.parentNode.insertBefore(c,s);
-})(document);
-`}</script>
+<SmartsuppChat></SmartsuppChat>
 
 
-
-<script src="//code.tidio.co/bwn1wygzbvkfucvjj1o68aeujhvgklrr.js" async />
 
 </>
 

@@ -1,3 +1,5 @@
+import SmartsuppChat from "./smartsup";
+
 export default function Home() {
 
     return (
@@ -1339,7 +1341,7 @@ custom scripts */}
 
 {/*<script src="//code.tidio.co/wr50arirncaluremifgu47qslmkzatzk.js" async></script>*/}
 
-
+<SmartsuppChat></SmartsuppChat>
 
 
 </body>
