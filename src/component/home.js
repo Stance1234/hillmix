@@ -1,4 +1,4 @@
-import SmartsuppChat from "./smartsup";
+import SmartsuppChat from "./chatbot";
 
 export default function Home() {
 

@@ -5,6 +5,7 @@ import Home from "./component/home";
 import './styles/sweetalert.css';
 import About from './component/About';
 import Pricing from './component/pricing';
+import ZohoChat from './component/chatbot';
 
 
 
@@ -18,6 +19,7 @@ function App() {
             <Route path="/pricing" element={<Pricing />} />
         </Routes>
       </Router>
+      <ZohoChat />
     </div>
   );
 }
