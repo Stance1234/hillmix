@@ -1,4 +1,4 @@
-import SmartsuppChat from "./chatbot"
+import SmartsuppChat from "./smartsup"
 export default function (){
 
     return(
