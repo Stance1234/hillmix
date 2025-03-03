@@ -1,4 +1,3 @@
-import SmartsuppChat from "./smartsup"
 export default function (){
 
     return(
@@ -555,7 +554,7 @@ export default function (){
 
 { /* all js include end */ }
 
-<SmartsuppChat></SmartsuppChat>
+
 
 
 
