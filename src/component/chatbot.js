@@ -1,31 +1,41 @@
-import { useEffect } from "react";
+import React, { useEffect } from 'react';
 
-const ZohoChat = () => {
+const LiveChatWidget = () => {
   useEffect(() => {
-    const zohoKey = process.env.REACT_APP_ZOHO_SALESIQ_KEY;
+    // Initialize LiveChat configuration
+    window.__lc = window.__lc || {};
+    window.__lc.license = 19070696; // Replace with your LiveChat license number
+    window.__lc.integration_name = "manual_onboarding";
+    window.__lc.product_name = "livechat";
 
-    console.log("Zoho SalesIQ Key:", zohoKey); // Debugging
+    // Load the LiveChat script dynamically
+    const script = document.createElement('script');
+    script.async = true;
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.livechatinc.com/tracking.js';
+    document.head.appendChild(script);
 
-    if (!zohoKey) {
-      console.error("Zoho SalesIQ key is missing!");
-      return;
-    }
-
-    window.$zoho = window.$zoho || {};
-    window.$zoho.salesiq = window.$zoho.salesiq || { ready: function () {} };
-
-    const script = document.createElement("script");
-    script.id = "zsiqscript";
-    script.src = `https://salesiq.zohopublic.com/widget?wc=${zohoKey}`;
-    script.defer = true;
-    document.body.appendChild(script);
-
+    // Cleanup: Remove the script when the component unmounts
     return () => {
-      document.body.removeChild(script);
+      document.head.removeChild(script);
     };
   }, []);
 
-  return null;
+  return (
+    <noscript>
+      <a href="https://www.livechat.com/chat-with/19070696/" rel="nofollow">
+        Chat with us
+      </a>
+      , powered by{' '}
+      <a
+        href="https://www.livechat.com/?welcome"
+        rel="noopener nofollow"
+        target="_blank"
+      >
+        LiveChat
+      </a>
+    </noscript>
+  );
 };
 
-export default ZohoChat;
+export default LiveChatWidget;
