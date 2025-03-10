@@ -181,3 +181,4 @@ const RevolutionSlider = () => {
 };
 
 export default RevolutionSlider;
+

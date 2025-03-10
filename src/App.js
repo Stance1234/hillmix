@@ -2,6 +2,7 @@
 import { BrowserRouter as Router,Routes, Route} from 'react-router-dom'
 import './App.css';
 import './styles/sweetalert.css';
+
 import Home from "./component/home";
 import About from './component/About';
 import Pricing from './component/pricing';
