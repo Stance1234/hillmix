@@ -1,4 +1,3 @@
-import SmartsuppChat from "./chatbot"
 export default function About(){
 
     return (
@@ -682,7 +681,7 @@ export default function About(){
 
 { /* all js include end */ }
 
-<SmartsuppChat></SmartsuppChat>
+
 
 </>
             </>

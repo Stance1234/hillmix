@@ -1,4 +1,4 @@
-import SmartsuppChat from "./chatbot"
+
 export default function (){
 
     return(
@@ -41,6 +41,8 @@ export default function (){
         </div>
 
         <div className="navbar-default">
+
+    
 
             { /* start top search */ }
             <div className="top-search bg-theme">
@@ -554,10 +556,6 @@ export default function (){
 <script src="assets/miner/quform/js/scripts.js" />
 
 { /* all js include end */ }
-
-<SmartsuppChat></SmartsuppChat>
-
-
 
 </>
 
