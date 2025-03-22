@@ -127,142 +127,122 @@ export default function (){
 
 </section>
 { /* end page title section */ }
-        
 <section className="price bg-light-gray">
-    <div className="container">
+            <div className="container">
 
-        <div className="section-heading">
-            <h3>Our Investment Pricing</h3>
-        </div>
+                <div className="section-heading title-style4 border-bottom padding-25px-bottom sm-padding-15px-bottom">
+                    <h3><span>Popular</span> Investment Plans</h3>
+                    <p className="width-55 sm-width-75 xs-width-95">We have a plan for every investor. Below are some of our popular investment plans. We are sure you'll find one that fits your budget and goals</p>
+                </div>
 
-        <div className="row">
+                <div className="row">
 
+                    {/* start table */}
+                                        <div className="col-lg-4">
+                        <div className="item text-center">
+                            <div className="type">
+                                <span className="icon"><i className="icofont icofont-diamond"></i></span>
+                                <h4>STARTER COPY</h4>
+                            </div>
+                            <div className="value">
+                              <div>  <h3>3000<span>$</span> </h3><br /><h3>-14999<span>$</span></h3></div>
+                                <span className="per">Minimum</span>
+                            </div>
+                            <div className="features">
+                                <ul>
+                                    <li>Starting at $3000</li>
+                                    <li>0% Commission</li>
+                                    <li>0.9%-1.23% ROI</li>
+                                    <li>Daily</li>
+                                    <li>Referral Bonus</li>
+                                </ul>
+                            </div>
+                            <div className="order">
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                            </div>
+                        </div>
+                    </div>
+                                            <div className="col-lg-4">
+                        <div className="item text-center">
+                            <div className="type">
+                                <span className="icon"><i className="icofont icofont-diamond"></i></span>
+                                <h4>ELITE COPY</h4>
+                            </div>
+                            <div className="value">
+                                <div>  <h3>15,000<span>$</span> </h3><br /><h3>-39,999<span>$</span></h3></div>
 
-                            <div className="col-lg-4">
-                    <div className="item text-center">
-                        <div className="type">
-                            <span className="icon"><i className="icofont icofont-diamond" /></span>
-                            <h4>GOLD</h4>
-                        </div>
-                        <div className="value">
-                            <h3>500<span>$</span></h3>
-                            <span className="per">Minimum</span>
-                        </div>
-                        <div className="features">
-                            <ul>
-                                <li>Starting at $500</li>
-                                <li>0% Commission</li>
-                                <li>0.57% ROI</li>
-                                <li>4 Week(s)</li>
-                                <li>Referral Bonus</li>
-                            </ul>
-                        </div>
-                        <div className="order">
-                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                <span className="per">Minimum</span>
+                            </div>
+                            <div className="features">
+                                <ul>
+                                    <li>Starting at $15,000</li>
+                                    <li>0% Commission</li>
+                                    <li>1.26%-1.45% ROI</li>
+                                    <li>Daily</li>
+                                    <li>Referral Bonus</li>
+                                </ul>
+                            </div>
+                            <div className="order">
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                            <div className="col-lg-4">
-                    <div className="item text-center">
-                        <div className="type">
-                            <span className="icon"><i className="icofont icofont-diamond" /></span>
-                            <h4>SILVER</h4>
-                        </div>
-                        <div className="value">
-                            <h3>5,000<span>$</span></h3>
-                            <span className="per">Minimum</span>
-                        </div>
-                        <div className="features">
-                            <ul>
-                                <li>Starting at $5,000</li>
-                                <li>0% Commission</li>
-                                <li>0.85% ROI</li>
-                                <li>5 Week(s)</li>
-                                <li>Referral Bonus</li>
-                            </ul>
-                        </div>
-                        <div className="order">
-                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
-                        </div>
-                    </div>
-                </div>
-                            <div className="col-lg-4">
-                    <div className="item text-center">
-                        <div className="type">
-                            <span className="icon"><i className="icofont icofont-diamond" /></span>
-                            <h4>DIAMOND</h4>
-                        </div>
-                        <div className="value">
-                            <h3>8,000<span>$</span></h3>
-                            <span className="per">Minimum</span>
-                        </div>
-                        <div className="features">
-                            <ul>
-                                <li>Starting at $8,000</li>
-                                <li>0% Commission</li>
-                                <li>1.14% ROI</li>
-                                <li>6 Week(s)</li>
-                                <li>Referral Bonus</li>
-                            </ul>
-                        </div>
-                        <div className="order">
-                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                            <div className="col-lg-4">
+                        <div className="item text-center">
+                            <div className="type">
+                                <span className="icon"><i className="icofont icofont-diamond"></i></span>
+                                <h4>PROFESIONAL COPY</h4>
+                            </div>
+                            <div className="value">
+                                <div>  <h3>40,000<span>$</span> </h3><br /><h3>-69,999<span>$</span></h3></div>
+                                <span className="per">Minimum</span>
+                            </div>
+                            <div className="features">
+                                <ul>
+                                    <li>Starting at $40,000</li>
+                                    <li>0% Commission</li>
+                                    <li>1.46%-1.60% ROI</li>
+                                    <li>Daily</li>
+                                    <li>Referral Bonus</li>
+                                </ul>
+                            </div>
+                            <div className="order">
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                            <div className="col-lg-4">
-                    <div className="item text-center">
-                        <div className="type">
-                            <span className="icon"><i className="icofont icofont-diamond" /></span>
-                            <h4>VIP</h4>
-                        </div>
-                        <div className="value">
-                            <h3>25,000<span>$</span></h3>
-                            <span className="per">Minimum</span>
-                        </div>
-                        <div className="features">
-                            <ul>
-                                <li>Starting at $25,000</li>
-                                <li>0% Commission</li>
-                                <li>1.42% ROI</li>
-                                <li>7 Week(s)</li>
-                                <li>Referral Bonus</li>
-                            </ul>
-                        </div>
-                        <div className="order">
-                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
-                        </div>
-                    </div>
-                </div>
-                            <div className="col-lg-4">
-                    <div className="item text-center">
-                        <div className="type">
-                            <span className="icon"><i className="icofont icofont-diamond" /></span>
-                            <h4>VIP+</h4>
-                        </div>
-                        <div className="value">
-                            <h3>100,000<span>$</span></h3>
-                            <span className="per">Minimum</span>
-                        </div>
-                        <div className="features">
-                            <ul>
-                                <li>Starting at $100,000</li>
-                                <li>0% Commission</li>
-                                <li>1.71% ROI</li>
-                                <li>6 Week(s)</li>
-                                <li>Referral Bonus</li>
-                            </ul>
-                        </div>
-                        <div className="order">
-                            <a href="https://Hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                                            <div className="col-lg-4">
+                        <div className="item text-center">
+                            <div className="type">
+                                <span className="icon"><i className="icofont icofont-diamond"></i></span>
+                                <h4>DIAMOND COPY</h4>
+                            </div>
+                            <div className="value">
+               <div>  <h3>70,000<span>$</span> </h3><br /><h3>-UNLIMITED<span>$</span></h3></div>
+                                <span className="per">Minimum</span>
+                            </div>
+                            <div className="features">
+                                <ul>
+                                    <li>Starting at $70,000</li>
+                                    <li>0% Commission</li>
+                                    <li>1.65% ROI</li>
+                                    <li>7 Day(s)</li>
+                                    <li>Referral Bonus</li>
+                                </ul>
+                            </div>
+                            <div className="order">
+                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
+                            </div>
                         </div>
                     </div>
+                       
+                        
+                    {/* end table */}
                 </div>
+            </div>
             
 
-        </div>
-    </div>
-</section>
+        </section>
 
 { /* start begin investing section */ }
 <section className="position-relative bg-transparent no-padding">
@@ -422,7 +402,7 @@ export default function (){
                                     { /* Begin Submit button */ }
                                     <div className="col-md-12">
                                         <div className="quform-submit-inner">
-                                            <button className="btn btn-white text-theme-color m-0" type="submit"><i className="fas fa-paper-plane" /></button>
+                                           <button className="btn btn-white text-theme-color m-0" type="submit"><i className="fas fa-paper-plane" /></button>
                                         </div>
                                         <div className="quform-loading-wrap"><span className="quform-loading" /></div>
                                     </div>
@@ -486,7 +466,7 @@ export default function (){
 <script src="assets/miner/js/popper.min.js" />
 
 { /* bootstrap */ }
-<script src="assets/miner/js/bootstrap.min.js" />
+ <script src="assets/miner/js/bootstrap.min.js" />
 
 { /* navigation */ }
 <script src="assets/miner/js/nav-menu.js" />

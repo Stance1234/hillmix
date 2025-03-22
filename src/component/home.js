@@ -719,18 +719,18 @@ export default function Home() {
                         <div className="item text-center">
                             <div className="type">
                                 <span className="icon"><i className="icofont icofont-diamond"></i></span>
-                                <h4>GOLD</h4>
+                                <h4>STARTER COPY</h4>
                             </div>
                             <div className="value">
-                                <h3>500<span>$</span></h3>
+                              <div>  <h3>3000<span>$</span> </h3><br /><h3>-14999<span>$</span></h3></div>
                                 <span className="per">Minimum</span>
                             </div>
                             <div className="features">
                                 <ul>
-                                    <li>Starting at $500</li>
+                                    <li>Starting at $3000</li>
                                     <li>0% Commission</li>
-                                    <li>0.57% ROI</li>
-                                    <li>3 Day(s)</li>
+                                    <li>0.9%-1.23% ROI</li>
+                                    <li>Daily</li>
                                     <li>Referral Bonus</li>
                                 </ul>
                             </div>
@@ -743,18 +743,19 @@ export default function Home() {
                         <div className="item text-center">
                             <div className="type">
                                 <span className="icon"><i className="icofont icofont-diamond"></i></span>
-                                <h4>SILVER</h4>
+                                <h4>ELITE COPY</h4>
                             </div>
                             <div className="value">
-                                <h3>5,000<span>$</span></h3>
+                                <div>  <h3>15,000<span>$</span> </h3><br /><h3>-39,999<span>$</span></h3></div>
+
                                 <span className="per">Minimum</span>
                             </div>
                             <div className="features">
                                 <ul>
-                                    <li>Starting at $5,000</li>
+                                    <li>Starting at $15,000</li>
                                     <li>0% Commission</li>
-                                    <li>0.85% ROI</li>
-                                    <li>4 Day(s)</li>
+                                    <li>1.26%-1.45% ROI</li>
+                                    <li>Daily</li>
                                     <li>Referral Bonus</li>
                                 </ul>
                             </div>
@@ -767,18 +768,18 @@ export default function Home() {
                         <div className="item text-center">
                             <div className="type">
                                 <span className="icon"><i className="icofont icofont-diamond"></i></span>
-                                <h4>DIAMOND</h4>
+                                <h4>PROFESIONAL COPY</h4>
                             </div>
                             <div className="value">
-                                <h3>8,000<span>$</span></h3>
+                                <div>  <h3>40,000<span>$</span> </h3><br /><h3>-69,999<span>$</span></h3></div>
                                 <span className="per">Minimum</span>
                             </div>
                             <div className="features">
                                 <ul>
-                                    <li>Starting at $8,000</li>
+                                    <li>Starting at $40,000</li>
                                     <li>0% Commission</li>
-                                    <li>1.14% ROI</li>
-                                    <li>6 Day(s)</li>
+                                    <li>1.46%-1.60% ROI</li>
+                                    <li>Daily</li>
                                     <li>Referral Bonus</li>
                                 </ul>
                             </div>
@@ -791,17 +792,17 @@ export default function Home() {
                         <div className="item text-center">
                             <div className="type">
                                 <span className="icon"><i className="icofont icofont-diamond"></i></span>
-                                <h4>VIP</h4>
+                                <h4>DIAMOND COPY</h4>
                             </div>
                             <div className="value">
-                                <h3>25,000<span>$</span></h3>
+               <div>  <h3>70,000<span>$</span> </h3><br /><h3>-UNLIMITED<span>$</span></h3></div>
                                 <span className="per">Minimum</span>
                             </div>
                             <div className="features">
                                 <ul>
-                                    <li>Starting at $25,000</li>
+                                    <li>Starting at $70,000</li>
                                     <li>0% Commission</li>
-                                    <li>1.42% ROI</li>
+                                    <li>1.65% ROI</li>
                                     <li>7 Day(s)</li>
                                     <li>Referral Bonus</li>
                                 </ul>
@@ -811,30 +812,7 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-                                            <div className="col-lg-4">
-                        <div className="item text-center">
-                            <div className="type">
-                                <span className="icon"><i className="icofont icofont-diamond"></i></span>
-                                <h4>VIP+</h4>
-                            </div>
-                            <div className="value">
-                                <h3>100,000<span>$</span></h3>
-                                <span className="per">Minimum</span>
-                            </div>
-                            <div className="features">
-                                <ul>
-                                    <li>Starting at $100,000</li>
-                                    <li>0% Commission</li>
-                                    <li>1.71% ROI</li>
-                                    <li>11 Day(s)</li>
-                                    <li>Referral Bonus</li>
-                                </ul>
-                            </div>
-                            <div className="order">
-                                <a href="https://dashboard.hillmixholdings.com/signup" className="butn small"><span>Choose Plan</span></a>
-                            </div>
-                        </div>
-                    </div>
+                       
                         
                     {/* end table */}
                 </div>
